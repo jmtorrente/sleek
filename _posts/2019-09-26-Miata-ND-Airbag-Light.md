@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ND MIATA AIRBAG LIGHT MOD
+title: ND Miata airbag light mod
 featured-img: sleek
 mathjax: true
 ---
@@ -12,7 +12,6 @@ Let's be syncere, whatever car you buy, it will have something you may not like 
 Watching miata forums on the web, I could see that some people were making some DIY projects, In fact, I have seen some people that have the same as me. I do not know who had the idea first, but anyhow this is my approach, with a 3D printer, CAD software ana little imagination you can do everything I did and you will be amazed with the result.
 
 <figure>
-    <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwie1cuV_u3kAhWCxIUKHZEcAhMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.autocasion.com%2Fmarcas%2Fmazda%2Fmx-5-deportivos%2Fmx-5-2-0-nappa-edition-rf-2-puertas-74888&psig=AOvVaw0ni0JB-BHb7aTpYNc7baJR&ust=1569570020488512
-    " alt="Paris" class="center">
-    <figcaption>Fig.1 - This is how the car comes.</figcaption>
+    <img src="https://images0.autocasion.com/unsafe/700x/unoauto/09/2245/9ffa1167c661ae018ea1eb78cdab1dff4cf114d3.jpeg" alt="Paris" class="center">
+    <figcaption>Fig.1 - That is how the car comes .</figcaption>
 <figure>
