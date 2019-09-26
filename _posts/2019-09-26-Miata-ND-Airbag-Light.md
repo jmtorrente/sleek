@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brownie project
+title: ND MIATA AIRBAG LIGHT MOD
 featured-img: sleek
 mathjax: true
 ---
