@@ -24,6 +24,6 @@ with open('C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/Brownie.jpg', 
         cover = resizeimage.resize_width(image, 991)
         cover.save((imName + "_md" + '.jpeg'), image.format)
 
-        cover = resizeimage.resize_width(image, 1999)
-        cover.save((imName + "_lg" + '.jpeg'), image.format)
+        #cover = resizeimage.resize_width(image, 1999)
+        #cover.save((imName + "_lg" + '.jpeg'), image.format)
 

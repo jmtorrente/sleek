@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brownie project
-featured-img: sleek
+featured-img: Brownie
 mathjax: true
 ---
 
