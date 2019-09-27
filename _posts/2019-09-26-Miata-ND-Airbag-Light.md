@@ -15,16 +15,15 @@ Watching miata forums on the web, I could see that some people were making some 
     <img src="https://images0.autocasion.com/unsafe/700x/unoauto/09/2245/9ffa1167c661ae018ea1eb78cdab1dff4cf114d3.jpeg" alt="Paris" class="center">
     <figcaption>Fig.1 - That is how the car comes .</figcaption>
 <figure>
-<br/><br/>
+
 As it can be seen. it is not the most beautiful gadget to have in your car. and so I started to think on how to tweak it in order to make it look better than it actually does. I finally made the decissión of removing the piece and see how the piece was made to figure out if I could make a more beautiful shape whit my 3D printer (A very cheap, but very good Crealty Ender 3).
 <br/><br/>
 <!--Picture of the actual piece-->
-<br/><br/>
+
 With Solid edge CAD software I created a beautiful pattern to substitute the original one. The OEM piece is made by two: a bigg plastic piece which holds a this plastic layer in which the light-up symbols are engraved. My first design was a two piece design and between both a three layer of onionskin paper. The result does not look as premium as the OEM one, but in the end it does its function and when mounted does look that bad. 
 <br/><br/>
 <!--Picture of the designed product-->
 <!--Picture of the designed product mounted on the whole system-->
-<br/><br/>
 
 ## IMPROVEMENTS
 <br/><br/>
@@ -36,11 +35,12 @@ Evidently this is the first prototype of the product, some of the major issues f
 4. It is highly possible that I did not make the selection for generate support material, because it built none.
 5. It is also possible to create a kind of pins to adjust the front panel to the piece for better alignment. If the second point is solved, then this is pointless, since the piece will be entirely printed in one piece.
 <br/><br/>
+
 ## CONCLUSIONS
 <br/><br/>
 As a conclusion, the quality, if the issues are solved, it will be pretty good. In the darkness it is very difficult to notice the bad quality, even in the first prototype made. The car shape is lits up very good and it can be seen very good.
 <br/><br/>
 <!--Pictures of the designed product mounted on the car and lighten up-->
-<br/><br/>
+
 There is one thing which could be improved: one of the leds is orange. It remains orange as long as nobody seats in passenger seat (in that case, it turns off), If it is orange, it creates a strange degraded effect which starts or ends in orange. This could be solved just by replacing those leds for other with different color.
 
