@@ -20,8 +20,9 @@ Let's got over the main characteristics of this camera:
 There is not focus feedback and the photo is composed by means of two small mirrors. for vertical and horizontal composition.
 <br/><br/>
 
+
 <figure>
-<img src="https://www.collection-appareils.fr/kodak/images/067.jpg
+<div align = "center"><img src="https://www.collection-appareils.fr/kodak/images/067.jpg
 " alt="Paris" class="center">
 <figcaption>Fig.1 - Kodak Brownie camera.</figcaption>
 <figure>
