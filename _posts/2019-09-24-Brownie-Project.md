@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brownie project
+title: MI6 project
 featured-img: Brownie
 mathjax: true
 ---
