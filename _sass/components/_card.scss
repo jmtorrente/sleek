@@ -75,6 +75,9 @@
 .post-card__thumb {
   margin: 0;
   background: $bg-color;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   position: relative;
   overflow: hidden;
 
@@ -82,13 +85,13 @@
     content: "";
     display: block;
     height: 0;
-    width: 56.25%;
+    width: 100%;
     // 16:9 = 56.25% = calc(9 / 16 * 100%)
     padding-bottom: 56.25%;
   }
 
   > * {
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
