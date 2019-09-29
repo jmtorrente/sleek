@@ -25,6 +25,7 @@ There is not focus feedback and the photo is composed by means of two small mirr
 <div align = "center"><img src="https://www.collection-appareils.fr/kodak/images/067.jpg
 " alt="Paris" class="center">
 <figcaption>Fig.1 - Kodak Brownie camera.</figcaption>
+</div>
 <figure>
 <br/><br/>
 ## FIRST APPROACH
