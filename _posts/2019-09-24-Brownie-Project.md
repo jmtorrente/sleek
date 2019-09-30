@@ -26,7 +26,7 @@ There is not focus feedback and the photo is composed by means of two small mirr
 " alt="Brownie" width="75%" class="center">
 <figcaption>Fig.1 - Kodak Brownie Flash III camera.</figcaption>
 </div>
-<figure>
+</figure>
 <br/><br/>
 ## FIRST APPROACH
 
@@ -37,7 +37,7 @@ The first approach is also the most complex one. It includes the use of an elect
 <img src="https://ae01.alicdn.com/kf/HTB100fnasnrK1RjSspkq6yuvXXaY/C-mara-obturador-mec-nico-C-mara-obturador-alta-rotaci-n-electroim-n-DIY-producci-n.jpg
 " alt="Shutter" width="75%" class="center">
 <figcaption>Fig.2 - Aliexpress shutter.</figcaption>
-<figure>
+</figure>
 <br/><br/>
 
 ## SECOND APPROACH
@@ -52,5 +52,5 @@ The problem of this second approach is to find out the flange distance of the ce
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flange_Focal_Length_%282_types_camera%29.PNG
 " alt="Flange" width="75%" class="center">
 <figcaption>Fig.3 - Camera flange distance.</figcaption>
-<figure>
+</figure>
 <br/><br/>
