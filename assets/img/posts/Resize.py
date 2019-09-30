@@ -1,9 +1,12 @@
 from PIL import Image
 from resizeimage import resizeimage
 
+FotoName = 'Brownie.jpg'
+Casa = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
+Work = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 imName = "Brownie"
 
-with open('C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/Brownie.jpg', 'r+b') as f:
+with open((Work + FotoName), 'r+b') as f:
     with Image.open(f) as image:
 
         cover = resizeimage.resize_width(image, 230)
