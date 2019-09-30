@@ -14,7 +14,7 @@ Watching miata forums on the web, I could see that some people were making some 
 <figure>
     <img src="https://images0.autocasion.com/unsafe/700x/unoauto/09/2245/9ffa1167c661ae018ea1eb78cdab1dff4cf114d3.jpeg" alt="Paris" class="center">
     <figcaption>Fig.1 - That is how the car comes .</figcaption>
-<figure>
+</figure>
 
 As it can be seen. it is not the most beautiful gadget to have in your car. and so I started to think on how to tweak it in order to make it look better than it actually does. I finally made the decissión of removing the piece and see how the piece was made to figure out if I could make a more beautiful shape whit my 3D printer (A very cheap, but very good Crealty Ender 3).
 <br/><br/>
