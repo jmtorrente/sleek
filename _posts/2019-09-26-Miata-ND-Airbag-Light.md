@@ -24,9 +24,8 @@ With Solid edge CAD software I created a beautiful pattern to substitute the ori
 <br/><br/>
 <!--Picture of the designed product-->
 <figure>
-    <div align = "center"><img src="/assets/img/article_images/Airbag_2.jpg" alt="Piece" class="center">
-    <figcaption>Fig.2 - This is the designed piece inserted in the car module .</figcaption>
-    </div>
+    <p align="center"><img src="/assets/img/Article_image/Airbag_1.jpg" width="80%"></p>    
+    <figcaption><p align="center"><b>Figure 2</b> - Designed piece inserted in car module</p></figcaption>
 </figure>
 
 ## IMPROVEMENTS
@@ -45,7 +44,7 @@ Evidently this is the first prototype of the product, some of the major issues f
 As a conclusion, the quality, if the issues are solved, it will be pretty good. In the darkness it is very difficult to notice the bad quality, even in the first prototype made. The car shape is lits up very good and it can be seen very good.
 <br/><br/>
 <figure>
-    <div align = "center"><img src="/assets/img/article_images/Airbag_1.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="/assets/img/Article_image/Airbag_2.jpg" alt="Lighten" class="center">
     <figcaption>Fig.3 - Designed piece already mounted and lighten up in the car .</figcaption>
     </div>
 </figure>
