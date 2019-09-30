@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MI6 project
-featured-img: Brownie
+featured-img: Airbag
 mathjax: true
 ---
 
