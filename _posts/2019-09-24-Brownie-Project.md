@@ -54,3 +54,5 @@ The problem of this second approach is to find out the flange distance of the ce
 <figcaption>Fig.3 - Camera flange distance.</figcaption>
 </figure>
 <br/><br/>
+
+Thank you to Smart on Unsplash for the incredible main photo of this post.
