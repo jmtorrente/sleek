@@ -27,7 +27,7 @@ navigation: # Navigation links
 tagline: >
   Film and Digital Photography met with technology
 
-hero_img: posts/Riaño Siglo XX 1.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/Riaño.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: jmtorrented@gmail.com # email for form submission
 
