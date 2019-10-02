@@ -11,7 +11,7 @@ mathjax: true
  </p>
 
 <figure>
-    <div align = "center"><img src="https://images0.autocasion.com/unsafe/700x/unoauto/09/2245/9ffa1167c661ae018ea1eb78cdab1dff4cf114d3.jpeg" alt="Light" class="center">
+    <div align = "center"><img src="https://images.unsplash.com/photo-1548880021-76c14b1f6602?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="Light" class="center">
     <figcaption>Fig.1 - That is how the car comes .</figcaption>
     </div>
 </figure>
