@@ -42,7 +42,7 @@ mathjax: true
 
 ## IMPROVEMENTS
 <p align="justify">
-Evidently this is the first prototype of the product, some of the major issues found are the following:
+    Evidently this is the first prototype of the product, some of the major issues found are the following:
 <br/><br/>
     1. The best printed surface is that in contact with the heatbed. in this case, due to the small rails in the lower part of it. It is important to print it knowing this issue and so invert the piece 180º in order for it to be printed in the best way, because the rails are not symetric.
     2. The onionskin paper is a shabby solution. A better one should be studied in order for better end-quality.
