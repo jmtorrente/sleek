@@ -7,7 +7,7 @@ mathjax: true
 
 # ND MIATA SMALL ANTENNA
  <p align="justify">
-
+This will be the future post for the Stubby antenna creation
  </p>
 
 <figure>
