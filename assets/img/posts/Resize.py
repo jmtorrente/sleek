@@ -1,3 +1,9 @@
+################################################################################################
+# name: Image_Resize
+# desc: Compress image file using python
+# date: 2019-02-10
+# Author: jmtorrented
+################################################################################################
 from PIL import Image
 from resizeimage import resizeimage
 
