@@ -10,7 +10,7 @@ mathjax: true
 During a long time after I bought the mx5 miata ND back in 2017, I have been wondering how I could get rid of OEM antenna, It makes the car look really ugly, it does not make any justice to it. My girlfriend even jokeed on it saying that it was possible for it to hit the car on strong acceleration and break due to inertia!
 Since the car arrive home I took that antenna out and put a smaller one which came from my father VW Polo (he did not use it).
 <br/><br/>
-But I have to say that even that smaller one was not completely of my like, so I started to look on the internet for the atenna which fit the car best. In the end I could not find one with a good price that I liked. And I have to say that I was not willing to pay almost 50€ (delivery included) for an antenna, when I do not even listen to radio.... And it was this moment when I realised that I could design my own one. 
+But I have to say that even that smaller one was not completely of my like, so I started to look on the internet for the atenna which fit the car best. In the end I could not find one with a good price that I liked. And I have to say that I was not willing to pay almost 50€ (delivery included) for an antenna, when I do not even listen to radio.... And it was this moment when I realised that I could design my own one. I know this antenna is cheaper in the states (around 30$), but taking customs into account will make it more expensive that actually buying it in Europe. nevertheless I was not willing to pay that money.
 <br/><br/>
 For me the antenna is just a design feature because I do not usually listen to radio. Removing it made it look even worse, so in the end I designed a new one. This way I could have the antenna I wanted.
 </p>
