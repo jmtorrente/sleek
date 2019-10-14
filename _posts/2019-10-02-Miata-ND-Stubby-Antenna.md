@@ -24,7 +24,7 @@ For me the antenna is just a design feature because I do not usually listen to r
 
 ## DESIGN
 <p align="justify">
-As always, the design was made using SolidEdge Software, below it is possible to see some images of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary.
+As always, the design was made using SolidEdge Software, below it is possible to find some images of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary. I made mine for a screw that I found in my home. I do not know where it came from, don't even know how this type of screw is called, anyway I found some similar in Aliexpress in the following link, I guess those will do the job.
 </p>
 <br/><br/>
 
