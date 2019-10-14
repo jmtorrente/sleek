@@ -8,7 +8,7 @@ mathjax: true
 # LIDAR IMPLEMENTATION FOR FOCUS DISTANCE CALCULUS
 <p align="justify">
 </p>
-For this project, it is necessary to check the following links:
+For this project, it is necessary to check the following links, and after that create the post:
 
 * https://www.instructables.com/id/Powering-Arduino-with-a-Battery/
 * https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
