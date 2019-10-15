@@ -43,7 +43,7 @@ It looks cleaner and more beautiful.
 </p>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Stubby.jpg" alt="Lighten" class="center">
-    <figcaption>Fig.2 - Render view og the Antenna CAD file  .</figcaption>
+    <figcaption>Fig.3 - My miata in a small village in Galicia - Spain.</figcaption>
     </div>
 </figure>
 
