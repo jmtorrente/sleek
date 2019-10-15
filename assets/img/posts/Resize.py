@@ -7,12 +7,12 @@
 from PIL import Image
 from resizeimage import resizeimage
 
-FotoName = 'Brownie.jpg'
+FotoName = 'Leica.jpg' #Modify
 Casa = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Brownie"
+imName = "Leica" #Modify
 
-with open((Work + FotoName), 'r+b') as f:
+with open((Casa + FotoName), 'r+b') as f: #Modify Casa or Work
     with Image.open(f) as image:
 
         cover = resizeimage.resize_width(image, 230)

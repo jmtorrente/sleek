@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TFmini Lidar for focus distance calculus
-featured-img: Stubby
+title: Lidar VS UltraSonic for focus distance calculus
+featured-img: Leica
 mathjax: true
 ---
 

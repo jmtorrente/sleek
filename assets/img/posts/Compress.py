@@ -7,12 +7,12 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-FotoName = 'Stubby_Render'
+FotoName = 'Leica'
 Casa_Input = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Input = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 Casa_Output = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Output = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Stubby_Render.jpg" #Change depending on the image name
+imName = "Leica.jpg" #Change depending on the image name
 imName_Res = "Compress"
 
 Im_Input = Casa_Input #Change depending on location
