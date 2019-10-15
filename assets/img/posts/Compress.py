@@ -7,16 +7,16 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-FotoName = 'Brownie.jpg'
+FotoName = 'Stubby_Render'
 Casa_Input = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Input = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 Casa_Output = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Output = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "_Stubby.jpg" #Change depending on the image name
+imName = "Stubby_Render.jpg" #Change depending on the image name
 imName_Res = "Compress"
 
-Im_Input = Work_Input #Change depending on location
-Im_Output = Work_Output #Change depending on location
+Im_Input = Casa_Input #Change depending on location
+Im_Output = Casa_Output #Change depending on location
 
 print('*** Program Started ***')
 

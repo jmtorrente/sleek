@@ -14,18 +14,23 @@ But I have to say that even that smaller one was not completely of my like, so I
 <br/><br/>
 For me the antenna is just a design feature because I do not usually listen to radio. Removing it made it look even worse, so in the end I designed a new one. This way I could have the antenna I wanted.
 </p>
-
+<br/><br/>
 <figure>
-    <div align = "center"><img src="https://images.unsplash.com/photo-1548880021-76c14b1f6602?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="Light" class="center">
-    <figcaption>Fig.1 - That is how the car comes .</figcaption>
+    <div align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Arachnewei%C3%9F-Metallic_Heckansicht_Detail.jpg" alt="Light" class="center">
+    <figcaption>Fig.1 - Look at that huge, horrible antenna .</figcaption>
     </div>
 </figure>
 <br/><br/>
 
 ## DESIGN
 <p align="justify">
-As always, the design was made using SolidEdge Software, below it is possible to find some images of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary. I made mine for a screw that I found in my home. I do not know where it came from, don't even know how this type of screw is called, anyway I found some similar in Aliexpress in the following link, I guess those will do the job.
+As always, the design was made using CAD Software, below it is possible to find an image of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary. I made mine for a screw that I found in my home. I do not know where it came from, don't even know how this type of screw is called, anyway I found some similar in Aliexpress in the following link, I guess those will do the job.
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Stubby_Render.jpg" alt="Lighten" class="center">
+    <figcaption>Fig.2 - Render view og the Antenna CAD file  .</figcaption>
+    </div>
+</figure>
 <br/><br/>
 
 ## IMPROVEMENTS
