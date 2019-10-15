@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ND Miata airbag light mod
+title: ND Miata Airbag Light-Mod
 featured-img: Airbag
 mathjax: true
 ---

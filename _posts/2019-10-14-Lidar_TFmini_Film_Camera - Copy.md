@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lidar VS UltraSonic for focus distance calculus
+title: Lidar VS UltraSonic for Focus Fistance Calculus
 featured-img: Leica
 mathjax: true
 ---
