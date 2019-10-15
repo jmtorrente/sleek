@@ -14,7 +14,6 @@ But I have to say that even that smaller one was not completely of my like, so I
 <br/><br/>
 For me the antenna is just a design feature because I do not usually listen to radio. Removing it made it look even worse, so in the end I designed a new one. This way I could have the antenna I wanted.
 </p>
-<br/><br/>
 <figure>
     <div align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Arachnewei%C3%9F-Metallic_Heckansicht_Detail.jpg" alt="Light" class="center">
     <figcaption>Fig.1 - Look at that huge, horrible antenna .</figcaption>
@@ -34,8 +33,18 @@ As always, the design was made using CAD Software, below it is possible to find 
 <br/><br/>
 
 ## IMPROVEMENTS
-<br/><br/>
+<p align="justify">
+It is difficult to omprove this design. The onyl real thing that could be improved is related with the way the antenna holds the mounting screw. In order to use a more common screw some design modifications need to  be made. This is something that I only contemplate if my current antenna is stolen. 
+</p>
 
 ## CONCLUSION
+<p align="justify">
+It looks cleaner and more beautiful.
+</p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Stubby.jpg" alt="Lighten" class="center">
+    <figcaption>Fig.2 - Render view og the Antenna CAD file  .</figcaption>
+    </div>
+</figure>
 
 
