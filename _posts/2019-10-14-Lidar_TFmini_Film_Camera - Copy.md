@@ -5,9 +5,14 @@ featured-img: Leica
 mathjax: true
 ---
 
-# LIDAR IMPLEMENTATION FOR FOCUS DISTANCE CALCULUS
+# ARDUINO-BASED SYTEM FOR FOCUS DISTANCE ESTIMATION
 <p align="justify">
 </p>
+Why would anybody need a focus distance estimation nowadays! I mean every camera even those in our mobile phones have advanced and highly accurate focus systems that do not fail very often. So what is the end of this post.
+
+Well, I'm a huge fan of analog photography (the title of the Blog clearly states that.... ;-)), and I suffer from GAS (Gear Acquisition Syndrome), I cannot resist the temptation of buying old cameras. I restore them and I use them, needless to say that I develope my own film and scan all the negatives in a dedicated flatbed scanner. I can also make positives out of these negatives with a meopta enlarger in my darkroom. But that is all  another matter which we may deal in the future.
+
+
 For this project, it is necessary to check the following links, and after that create the post:
 
 * https://www.instructables.com/id/Powering-Arduino-with-a-Battery/
