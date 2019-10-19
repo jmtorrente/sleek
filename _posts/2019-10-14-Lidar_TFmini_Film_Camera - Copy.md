@@ -29,7 +29,7 @@ HC-SR04 is a very cheap ultrasound sensor which can be bought in aliexpress <a h
 
 The advantages of using this method, is mainly the power consumption which almost halves my TF-mini Lidar and also its low distance precision. Both sensor ranges are:
 
-* Lidar: $0.3m$ to $12m$
+* Lidar: $\small 0.3m$ to $\small 12m$
 * HC-SR04: $0.02m$ to $4.5m$
 
 Obviously the main disadvantage is that it only measures up to 4.5m which seems to be a little low for camera focus distance. For example, my Zorki 1 goes from 1.2m up to 20m, so both method are a bit out of range in some way.
@@ -42,19 +42,19 @@ The sensor measures the elapsed time between the pulse is sent and when it later
 
 $$
 343\dfrac{m}{s}\cdot 100\dfrac{cm}{m}\cdot \dfrac{1}{1000000}\cdot\dfrac{s}{\mu s} = \dfrac{1}{29.2}\cdot \dfrac{cm}{\mu s}
- $$
+$$
 
 So from previous equation it can be extracted that this sound pulse may travel $`1 cm`$ every $`29.2 \mu/s`$, and so, following the following equation, it is possible to calculate traveled distance:
 
-$$math 
+$$ 
 TraveledDistance = \dfrac{ElapsedTime (\mu s)}{29.2}
 $$
 
 But we do not need the whole traveled distance, we just need the half of it and so:
 
- ```math 
+$$
 TraveledDistance = \dfrac{ElapsedTime (\mu s)}{58.4}
- ```
+$$
 
 
  ## SECOND APPROACH:TF-MINI LIDAR
