@@ -23,7 +23,7 @@ For me the antenna is just a design feature because I do not usually listen to r
 
 ## DESIGN
 <p align="justify">
-As always, the design was made using CAD Software, below it is possible to find an image of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary. I made mine for a screw that I found in my home. I do not know where it came from, don't even know how this type of screw is called, anyway I found some similar in Aliexpress in the following link, I guess those will do the job.
+As always, the design was made using CAD Software, below it is possible to find an image of the final antenna. The only important detail to keep in mind, is that it is necessary to have the right screw type, otherwise, it will be necessary to stick the screw from the outside. Evidently in this latest case, a design modification will be necessary. I made mine for a screw that I found in my home. I do not know where it came from, don't even know how this type of screw is called, anyway I found some similar in <a href="https://es.aliexpress.com/item/33019571582.html?spm=a2g0o.productlist.0.0.67c13ebcipdBhA&algo_pvid=20c44575-7be6-415c-8bad-25c21ccefc48&algo_expid=20c44575-7be6-415c-8bad-25c21ccefc48-3&btsid=a332d6dd-4674-4484-b9ad-994bd7b70973&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_52">Aliexpress</a>, I guess those will do the job (modification will be needed).
 </p>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Stubby_Render.jpg" alt="Lighten" class="center">
@@ -34,7 +34,7 @@ As always, the design was made using CAD Software, below it is possible to find 
 
 ## IMPROVEMENTS
 <p align="justify">
-It is difficult to omprove this design. The onyl real thing that could be improved is related with the way the antenna holds the mounting screw. In order to use a more common screw some design modifications need to  be made. This is something that I only contemplate if my current antenna is stolen. 
+It is difficult to improve this design, since it does not have anty special feature. The only real thing that could be improved is related with the way the antenna holds the mounting screw, I used a special screw I found. In order to use a more common screw some design modifications need to  be made. This is something that I only contemplate if my current antenna is stolen. 
 </p>
 
 ## CONCLUSION
