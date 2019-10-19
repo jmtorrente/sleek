@@ -57,7 +57,7 @@ TraveledDistance = \dfrac{ElapsedTime (\mu s)}{58.4}
 $$
 
 
- ## SECOND APPROACH:TF-MINI LIDAR
+## SECOND APPROACH:TF-MINI LIDAR
 
 
 ## DESIGN
