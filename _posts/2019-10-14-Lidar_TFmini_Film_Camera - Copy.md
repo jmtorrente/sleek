@@ -29,8 +29,8 @@ HC-SR04 is a very cheap ultrasound sensor which can be bought in aliexpress <a h
 
 The advantages of using this method, is mainly the power consumption which almost halves my TF-mini Lidar and also its low distance precision. Both sensor ranges are:
 
-* Lidar: 0.3m to 12m
-* HC-SR04: 0.02m to 4.5m
+* Lidar: $0.3m$ to $12m$
+* HC-SR04: $0.02m$ to $4.5m$
 
 Obviously the main disadvantage is that it only measures up to 4.5m which seems to be a little low for camera focus distance. For example, my Zorki 1 goes from 1.2m up to 20m, so both method are a bit out of range in some way.
 
@@ -38,17 +38,17 @@ Obviously the main disadvantage is that it only measures up to 4.5m which seems 
 
 It is very easy. Ultrasonic sensors are devices used for several purposes, in this case we will explain them for distance measurement. These sensor send a non-audible, high frequency pulse which rebounds on nearby objects and reflects into the sensor again, which "listens" to that frequency pulse and calculates the distance based on the sound speed and time it took the pulse to reach the microphone.
 
-The sensor measures the elapsed time between the pulse is sent and when it later is received. We know that sound speed is around $`343 m/s`$ in normal conditions ($`20ºC`$, $`50\%`$ relative humidity and $`101325 Pa`$ pressure). So transforming units we have that:
+The sensor measures the elapsed time between the pulse is sent and when it later is received. We know that sound speed is around $343 m/s$ in normal conditions ($20ºC$, $50\%$ relative humidity and $101325 Pa$ pressure). So transforming units we have that:
 
-```math 
+$$
 343\dfrac{m}{s}\cdot 100\dfrac{cm}{m}\cdot \dfrac{1}{1000000}\cdot\dfrac{s}{\mu s} = \dfrac{1}{29.2}\cdot \dfrac{cm}{\mu s}
- ```
+ $$
 
- So from previous equation it can be extracted that this sound pulse may travel $`1 cm`$ every $`29.2 \mu/s`$, and so, following the following equation, it is possible to calculate traveled distance:
+So from previous equation it can be extracted that this sound pulse may travel $`1 cm`$ every $`29.2 \mu/s`$, and so, following the following equation, it is possible to calculate traveled distance:
 
- ```math 
+$$math 
 TraveledDistance = \dfrac{ElapsedTime (\mu s)}{29.2}
- ```
+$$
 
 But we do not need the whole traveled distance, we just need the half of it and so:
 
