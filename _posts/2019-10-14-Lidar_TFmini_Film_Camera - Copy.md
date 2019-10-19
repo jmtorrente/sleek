@@ -58,7 +58,9 @@ $$
 
 
 ## SECOND APPROACH:TF-MINI LIDAR
-
+<p align="justify">
+</p>
+<br/><br/>
 
 ## DESIGN
 <p align="justify">
@@ -66,8 +68,12 @@ $$
 <br/><br/>
 
 ## IMPROVEMENTS
+<p align="justify">
+</p>
 <br/><br/>
 
 ## CONCLUSION
-
+<p align="justify">
+</p>
+<br/><br/>
 
