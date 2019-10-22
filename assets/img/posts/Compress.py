@@ -1,7 +1,7 @@
 ################################################################################################
-# name: Image_Compress
-# desc: Compress image file using python
-# date: 2019-02-10
+# Name: Image_Compress
+# Desc: Compress image file using python
+# Date: 2019-08-10
 # Author: jmtorrented
 ################################################################################################
 from PIL import Image, ImageDraw, ImageFont
