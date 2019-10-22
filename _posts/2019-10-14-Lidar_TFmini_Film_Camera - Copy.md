@@ -62,16 +62,6 @@ $$
 </p>
 <br/><br/>
 
-## DESIGN
-<p align="justify">
-</p>
-<br/><br/>
-
-## IMPROVEMENTS
-<p align="justify">
-</p>
-<br/><br/>
-
 ## CONCLUSION
 <p align="justify">
 </p>
