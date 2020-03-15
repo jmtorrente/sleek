@@ -43,7 +43,7 @@ mathjax: true
 
 ## SECOND APPROACH
 <p align="justify">
-    the second approach is a bit less optimistic and in some way reachable. If the first approach does not work (and anyway), we will try to couple an old camera shutter (central shutter) to a Brownie-kind body. This seems easy and straightforward, nevertheless it's got some difficulties which will be worked out later in this or coming posts.
+    the second approach is a bit less optimistic and in some way reachable. If the first approach does not work (and anyway), we will try to couple an old camera shutter (leaf shutter) to a Brownie-kind body. This seems easy and straightforward, nevertheless it's got some difficulties which will be worked out later in this or coming posts.
     <br/><br/>
     I guess that if I detached the current lens of the Kodak Brownie, and attached on its place my old Wollensak central shutter, I could better test if it actually works or creates some vignetting on the negative. Puting both cameras side by side I can say that it should be fine.
     <br/><br/>
@@ -58,4 +58,28 @@ mathjax: true
 <br/><br/>
 <p align="justify">
     Thank you to Smart on Unsplash for the incredible main photo of this post.
+ </p>
+
+
+## THIRD APPROACH
+<p align="justify">
+    Nevertheless, it also exists another approach. I think that it is possible to create a camera just by myself. It is something that i have always wanted to do. It is not an easy task and involves high amounts of work and design.
+   <br/><br/>
+    For such a project, it is necessary to use a design software like solid edge, for example and of course, a 3D printer will also be necessary in order to print the necessary parts and finally Evidently a lens and shutter will be needed, and for this, I had already bought a cheap camera to remove the lens. It had to be a leaf-shutter, since no courtain is available in this camera.
+    The camera chosen for this task is a Zeiss Ikon Nettar 517/16 with a 75mm F6.3. With a speed range from Bulb to 1/200". It is not the best lens available. But this is a test project, and it is not necessary to make it more expensive, if it works. In the future, it will be possible to add new lenses and addons.
+
+<figure>
+<img src="https://images.unsplash.com/photo-1491830356944-3e5642d6517f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+" alt="Flange" width="70%" class="center">
+<figcaption>Fig.4 - Zeiss Ikon Nettar 517/16.</figcaption>
+</figure>
+
+### INSPIRATION
+
+I always wanted to build and design my own camera, but when I started to think about it, it always felt out of my reach. I felt not prepared to perform this task. My idea was always to try to build a camera similar to the hasselblad XPan, bacause I like the concept of having a panoramic camera and the ones available are very expensive, and hence, out of my reach.
+
+I then started to think about an easy project, one based on a simple camera, I the inspiration came to my mind. I remembered the Kodak Brownie Flash Ii which you, Celia, gave to me two years ago. Do not missunderstand me, the Kodak Brownie is a great camera, but I wanted to make it a little better, as it is, it has a fix speed, fix focus and focal length lens.I wanted to make a Brownie 2.0. Which I called a Celiownie.
+
+
+   
  </p>

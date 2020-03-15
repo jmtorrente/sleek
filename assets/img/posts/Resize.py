@@ -10,9 +10,8 @@ from resizeimage import resizeimage
 FotoName = 'Leica.jpg' #Modify
 Casa = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-Test = 'C:/Users/jmtor/Documents/Projects/Hola/'
 imName = "Leica" #Modify
-Location = Test #Modify
+Location = Casa #Modify Casa or Work
 
 with open((Casa + FotoName), 'r+b') as f: #Modify Casa or Work
     with Image.open(f) as image:
