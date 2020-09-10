@@ -94,10 +94,11 @@ In my case, this camera was a present, and the issues I found could be easily im
 
 * The film advance was not easy. (This will be fixed with a redesign wheel knob)
 * Film felt to be not tight inside the camera. (this will be fixed with a new pressing plate)
+* Film tighten issue caused a loss in focus and perspective weird look
 
 ### RESULTS OBTAINED
 
-To this time, I have only made one roll of film on that camera. The results have been very good in terms of quality. Nevertheless I could find some issues which I noted above and you may see on the pictures attached below.
+To this time, I have only made one roll of film on that camera. The results have been very good. Nevertheless I could find some issues which I noted above and you may see on the pictures attached below.
 
 ### FURTHER ITERATIONS
 
