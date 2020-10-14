@@ -30,7 +30,7 @@ In the following lines I will try to perform a comparison between the three diff
 
 ## METHOD 1. SMARTPHONE SCANNING
 
-When I started in the film world, I did not have any flatbed scanner or any other source for scanning my negatives. But I was not willing to pay the amounts the labs were to charge me for doing me the job. Either I could find an easy, reliable and cheap way of scanning my negatives or I would have ended quiting analog photography and return again to the digital world.
+When I started in the film world, I did not have any flatbed scanner or any other source for scanning my negatives. But I was not willing to pay the amounts the labs were to charge me for doing me the job. Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography and return again to the digital world.
 
 I had my first roll of B&W film developed in Padrón (A Coruña, Galicia. Spain) back in 2015. I did not have the roll scanned (because of the price), but I asked for the copies. When I went for it, I was very upset, I could see that all the photos where underexposed, it was very frustrating and I took a long time for me to shoot film again. But when I did, I challenged myself to develop and scann it by myself, keeping the costs low.
 
@@ -65,81 +65,62 @@ In the end, this test will only evaluate the APP capabilites. Take into account 
 
 In essence, Smartphone scanning is a tool which is only acceptable when in a hurry, it is straightforward method that allows for a quick preview. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application.
 
+<br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Airbag_2.jpg" alt="Lighten" class="center">
-    <figcaption>Fig.4 - Designed piece already mounted and lighten up in the car .</figcaption>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
+    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
+    <figcaption>Bilbao. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
+    <figcaption>Bilbao. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
+    <figcaption>Bilbao. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: Center;    
-}
-</style>
-</head>
-<body>
-<table style="width:100%">
-  <tr>
-    <th colspan="2">Smartphone scanning</th>
-  </tr>
-  <tr>
-    <td>Method expenses</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Pre-procesing time</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>Material needed</td>
-    <td>Mobile Phone</td>
-  </tr>
-  <tr>
-    <td>Necessary skills</td>
-    <td>Basic</td>
-  </tr>
-  <tr>
-    <td>Processing time</td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td>End result</td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td>Post processing time</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Average</td>
-    <td>-</td>
-  </tr>  
-</table>
-</body>
-</html>
+## METHOD 2. FLATBED SCANNING
 
------------------------------------------------------------
-[ADD PICTURES FROM MY MOBILE PHONE]
------------------------------------------------------------
+As previously described on Method 1. Smartphone Scanning. *Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography.* 
 
-### SMARTPHONE SCANNING - METHOD EXPENSES
+The reliable and "cheap" way that I could find was to use a flatbed scanner. I made a quick search and found a cheap CanonScan 9000F Mark II, which promised pretty much better results than Smartphone scanning. I can not remember how nuch it was, but I have to say it was well spent money.
 
-Barely none, nowadays everybody's got a Smartphone, so let's just say that in this case, the only thing you need is a dedicated App. If you only shoot B&W, then it is very simple, since the free app Snapseed will be more that enough for you. If you also shoot color, then you will need a dedicated App.
+This scanning method is the one I've been using since 2015 with great success. Let's just go through with the analysis.
 
-Photo Negative Scanner is one of the film scanning apps (for both B&W and colour negatives) available on [Google Play](https://play.google.com/store/apps/details?id=dk.appdictive.colorNegativeViewer&hl=en_US&gl=US), there may be others for IOS, just make a quick search at Apple Store. 
-Since the scope of this post is to compare DSLR / mirrorless scanning vs flatbed scanning. I will not go very deep on Smartphone scanning, just introduce it, and let you know that it is possible to do it (with its limitations). 
+### METHOD EXPENSES
 
-Smartphone scanning, performed with no other tools; like a film holder, light table or such accesories has a lot of limitations. First, you will need to search for a light source, as difuse as possible, on the other hand, negatives wont usually stay flat by its own, so you will have lots of perspective issues. 
 
-But let's go to the results, this tests have been performed procesing the photos shot with my mirrorless Sony A6000 and vintage Tamron Macro Lens, also I put the film through my film holder (3D-printed). In the end, this test will only evaluate the APP capabilites. Take into account that the results will be worse if the photos are performed with a Smartphone.
+
+### MATERIAL NEEDED
+
+
+
+### NECESSARY SKILLS
+
+
+
+### PROCESSING TIME
+
+
+
+### END RESULT
+
+
+
+---
+# FINAL RESULTS
 
 <html>
 <head>
@@ -157,47 +138,56 @@ th, td {
 <body>
 <table style="width:100%">
   <tr>
-    <th colspan="2">Smartphone scanning</th>
+    <td>Smartphone Scanning</td>
+    <td>Flatbed Scanning</td>
+    <td>DSLR / Mirrorless Scanning</td>
   </tr>
   <tr>
     <td>Method expenses</td>
     <td>2</td>
+    <td></td>
   </tr>
   <tr>
     <td>Pre-procesing time</td>
     <td>0</td>
+    <td></td>
   </tr>
   <tr>
     <td>Material needed</td>
     <td>Mobile Phone</td>
+    <td></td>
   </tr>
   <tr>
     <td>Necessary skills</td>
     <td>Basic</td>
+    <td></td>
   </tr>
   <tr>
     <td>Processing time</td>
     <td>Low</td>
+    <td></td>
   </tr>
   <tr>
     <td>End result</td>
     <td>Low</td>
+    <td></td>
   </tr>
   <tr>
     <td>Post processing time</td>
     <td>High</td>
+    <td></td>
   </tr>
   <tr>
     <td>Average</td>
     <td>-</td>
+    <td></td>
   </tr>  
 </table>
 </body>
 </html>
+<br/><br/>
 
-In essence, Smartphone scanning is a tool which is only acceptable when in a hurry, it is straightforward method that allows for a quick preview. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application.
 
-[ADD PICTURES FROM MY MOBILE PHONE]
 
 ## EASY FILM SCANNER
 
