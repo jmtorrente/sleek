@@ -27,14 +27,17 @@ In the following lines I will try to perform a comparison between the three diff
 * End result
 * Post processing time
 * User experience
+<br/><br/>
 
 ## METHOD 1. SMARTPHONE SCANNING
+---
 
 When I started in the film world, I did not have any flatbed scanner or any other source for scanning my negatives. But I was not willing to pay the amounts the labs were to charge me for doing me the job. Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography and return again to the digital world.
 
 I had my first roll of B&W film developed in Padrón (A Coruña, Galicia. Spain) back in 2015. I did not have the roll scanned (because of the price), but I asked for the copies. When I went for it, I was very upset, I could see that all the photos where underexposed, it was very frustrating and I took a long time for me to shoot film again. But when I did, I challenged myself to develop and scann it by myself, keeping the costs low.
 
 What did I do? I started to develop all the rools by myself, I found it very rewarding and interesting, on the other hand I saved so much money and made film photography look more appearing to me. The first roll I developed, I just scanned it by means of a dedicated App and a Smartphone. Not the best way, but at least I could see the pictures.
+<br/><br/>
 
 ### SMARTPHONE SCANNING - METHOD EXPENSES
 
@@ -42,20 +45,24 @@ Barely none, nowadays everybody's got a Smartphone, so let's just say that in th
 
 Photo Negative Scanner is one of the film scanning apps (for both B&W and colour negatives) available on [Google Play](https://play.google.com/store/apps/details?id=dk.appdictive.colorNegativeViewer&hl=en_US&gl=US), there may be others for IOS, just make a quick search at Apple Store. 
 Since the scope of this post is to compare DSLR / mirrorless scanning vs flatbed scanning. I will not go very deep on Smartphone scanning, just introduce it, and let you know that it is possible to do it (with its limitations). 
+<br/><br/>
 
 ### MATERIAL NEEDED
 
 Smartphone scanning, performed with no other tools; like a film holder, light table or such accesories has a lot of limitations. You will need to search for a light source, as difuse as possible, on the other hand, negatives wont usually stay flat by its own, so you will have lots of perspective issues. 
 
 It is of course possible to scan negatives this way, nevertheless is not the one I recommend, unless you don't care about the perspective issues or bas quality results. if you only want it as a preview tool for enlarging the negatives.
+<br/><br/>
 
 ### NECESSARY SKILLS
 
 Even my grandparent would be able to scan negatives this way. The App does everything, and guides you through the entire process.
+<br/><br/>
 
 ### PROCESSING TIME
 
-It does not take too much, but it hughly depends on the tools you may have, if you, for example, own a [Lomography Smartphone Scanner](https://shop.lomography.com/en/smartphone-scanner?country=es, ), it obviously faster, but obviously it comes at a price of 69€ + delivery fees.
+It does not take too much, but it hughly depends on the tools you may have, if you, for example, own a [Lomography Smartphone Scanner](https://shop.lomography.com/en/smartphone-scanner?country=es), it obviously faster, but obviously it comes at a price of 69€ + delivery fees.
+<br/><br/>
 
 ### END RESULT
 
@@ -92,34 +99,49 @@ In essence, Smartphone scanning is a tool which is only acceptable when in a hur
 <br/><br/>
 
 ## METHOD 2. FLATBED SCANNING
-
+---
 As previously described on Method 1. Smartphone Scanning. *Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography.* 
 
 The reliable and "cheap" way that I could find was to use a flatbed scanner. I made a quick search and found a cheap CanonScan 9000F Mark II, which promised pretty much better results than Smartphone scanning. I can not remember how nuch it was, but I have to say it was well spent money.
 
 This scanning method is the one I've been using since 2015 with great success. Let's just go through with the analysis.
+<br/><br/>
 
 ### METHOD EXPENSES
 
+Flatbed scanning is one the cheapest, in terms of "price vs quality", ways of scanning your own film at home. Nevertheless you'll obviously need a flatbed scanner. There are two brands that I know which make flatbed scanners for film: Epson and Canon. 
 
+Epson has got a wide variety in terms of price and quality, they go from 270€ for the [Epson V600](https://www.amazon.es/dp/B002QFA4IU?tag=amz-mkt-chr-es-21&ascsubtag=1ba00-01000-org00-win10-other-nomod-es000-pcomp-feature-rscomp-wm-5&ref=aa_rscomp), to 800€ for the proffesional [Epson V850](https://www.amazon.es/Epson-Perfection-V850-Pro-fotogr%C3%A1fico/dp/B00NVA77PM/ref=pd_sbs_147_7?_encoding=UTF8&pd_rd_i=B00NVA77PM&pd_rd_r=0f696cae-2389-471e-b5dd-155046f8c4d3&pd_rd_w=x4EcL&pd_rd_wg=MbuN2&pf_rd_p=67f01a2a-b609-4166-a4fd-4c54d5e0c873&pf_rd_r=YP509A1SSFM34DMAJQJC&psc=1&refRID=YP509A1SSFM34DMAJQJC).
+
+If you're a newbie, I would encourage you to buy the V600, it has great quality for the price, more than enough for sharing pictures in social media. The good thing about flatbed scanners is that they usually allow to scan both 35mm film and medium format. If you never shoot medium format (you should try), then may be I would rather recommend a [Plustek 8100](https://www.amazon.es/Epson-Perfection-V850-Pro-fotogr%C3%A1fico/dp/B00NVA77PM/ref=pd_sbs_147_7?_encoding=UTF8&pd_rd_i=B00NVA77PM&pd_rd_r=0f696cae-2389-471e-b5dd-155046f8c4d3&pd_rd_w=x4EcL&pd_rd_wg=MbuN2&pf_rd_p=67f01a2a-b609-4166-a4fd-4c54d5e0c873&pf_rd_r=YP509A1SSFM34DMAJQJC&psc=1&refRID=YP509A1SSFM34DMAJQJC) dedicated 35mm scanner for both, better quality at the same price range of flatbed scanners, and also a smaller form factor.
+
+I own myself a Canoscan 9000F Mark II, but searching on the internet, I think that it has been recently discontinued, since I can not find at a low price, in fact, the only ones that I find on ebay (second hand) are way over 300€, which I think that is something over the top, since it is not that great product. Anyway, try to search on second hand local applications, for example in Spain we have *Wallapop* I founded there for close to 100€, which is a normal price for that scanner.
+<br/><br/>
 
 ### MATERIAL NEEDED
 
-
+Evidently, you will need a negative scanner, either a flatbed or a dedicated 35mm one. Of course you will also need a computer, it is not necessary to have a very powerful one, the application I think runs on very low specifications. It is also recommended to have a air blower, since the negatives when drying tend to acquire te dust present in the air.
+<br/><br/>
 
 ### NECESSARY SKILLS
 
-
+More or less the same as with SmartPhone Scanning. Obviously, the application gives more configurability and if you have the skills you`ll be able to modify many settings that may improve your scans, but nevertheless for a normal JPEG image you won't need any advanced skills.
+<br/><br/>
 
 ### PROCESSING TIME
 
-
+Processing time hugely depends on the quality of the output scans evidently if you want them to be 9000 ppi then it will take mostly 30' per 12 pictures. If you just want it 2400 it will barely take around 10'. If you do it just for preview, like I do, then the 12 frames will take less than 10'.
+<br/><br/>
 
 ### END RESULT
 
+In this regarding, I am gonig to talk about my experience with the CanoScan 9000F Mark II, but I guess that the Epson family works in a similar way.
 
+The results given by the flatbed scanner are, in my opinion, fine, but not perfect. I used to think that they were better than they actually are. 
 
----
+The following pictures are shown like they come out from the scanner. No compression or edition has been applied by the Canon SW. The program used for this task is Canon ScanGear.
+<br/><br/>
+
 # FINAL RESULTS
 
 <html>

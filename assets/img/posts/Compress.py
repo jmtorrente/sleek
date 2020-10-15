@@ -7,13 +7,13 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-FotoName = 'Zorki_2'
+FotoName = 'FlatBed_Scanning-1'
 Casa_Input = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Input = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 Casa_Output = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Output = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Zorki_2.jpg" #Change depending on the image name
-imName_Res = "Compress"
+imName = "FlatBed_Scanning-1.TIF" #Change depending on the image name
+imName_Res = "Compress_"
 
 Im_Input = Casa_Input #Change depending on location
 Im_Output = Casa_Output #Change depending on location
