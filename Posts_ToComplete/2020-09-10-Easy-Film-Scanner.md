@@ -5,7 +5,7 @@ featured-img:
 mathjax: true
 ---
 
-# EASY FILM SCANNER:
+# FILM SCANNING METHODS. INTRO.
 
 Nowadays, film photography faces several (retos). film and camera prices, easier development and very outdated film scanning methods. Since 2010 when I re-started to shoot film photography, I have been very concerned about the issue of film scanning methods in a digital world. 
 
@@ -74,25 +74,25 @@ In essence, Smartphone scanning is a tool which is only acceptable when in a hur
 
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
     <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
     <figcaption>Bilbao. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
     <figcaption>Bilbao. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
     <figcaption>Bilbao. Vasque Country.</figcaption>
     </div>
 </figure>
@@ -140,7 +140,33 @@ In this regarding, I am gonig to talk about my experience with the CanoScan 9000
 The results given by the flatbed scanner are, in my opinion, fine, but not perfect. I used to think that they were better than they actually are. 
 
 The following pictures are shown like they come out from the scanner. No compression or edition has been applied by the Canon SW. The program used for this task is Canon ScanGear.
+
 <br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_1.jpg" alt="Lighten" class="center">
+    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_2.jpg" alt="Lighten" class="center">
+    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_3.jpg" alt="Lighten" class="center">
+    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_4.jpg" alt="Lighten" class="center">
+    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+
 
 # FINAL RESULTS
 
