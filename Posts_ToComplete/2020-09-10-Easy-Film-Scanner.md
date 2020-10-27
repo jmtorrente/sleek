@@ -17,16 +17,7 @@ I think that the expenses of film photography for a person who wants to start fr
 
 * Film Scanning - It is also possible to do your own film scanning, there exists several ways, the cheapest one is by using a light table and making pictures of the frames with a smartphone. it is also possible to do this in a more professional way, with a DSLR or mirrorless camera and a Macro lens. If on the other hand you want to invest in a flatbed scanner, prepare at lest 200 - 300€ for a "decent" one (Canoscan 9000F Mark II or EPSON V600 or a Plustek).
 
-In the following lines I will try to perform a comparison between the three different methods I have tried in the pass. in this analysis I will compare the following characteristics (puntuadas) from 1 to 10 for each procedure:
-
-* Method expenses
-* Pre-processing time
-* Material needed
-* Necessary skills
-* Processing Time
-* End result
-* Post processing time
-* User experience
+In the following lines I will try to perform a comparison between the three different methods I have tried in the past. 
 <br/><br/>
 
 ## METHOD 1. SMARTPHONE SCANNING
@@ -39,7 +30,7 @@ I had my first roll of B&W film developed in Padrón (A Coruña, Galicia. Spain)
 What did I do? I started to develop all the rools by myself, I found it very rewarding and interesting, on the other hand I saved so much money and made film photography look more appearing to me. The first roll I developed, I just scanned it by means of a dedicated App and a Smartphone. Not the best way, but at least I could see the pictures.
 <br/><br/>
 
-### SMARTPHONE SCANNING - METHOD EXPENSES
+### METHOD EXPENSES
 
 Barely none, nowadays everybody's got a Smartphone, so let's just say that in this case, the only thing you need is a dedicated App. If you only shoot B&W, then it is very simple, since the free app Snapseed will be more that enough for you. If you also shoot color, then you will need a dedicated App.
 
@@ -70,32 +61,7 @@ Ok. Let's go to the results, this tests have been performed procesing the photos
 
 In the end, this test will only evaluate the APP capabilites. Take into account that the results will worsen if the photos are performed with a Smartphone.
 
-In essence, Smartphone scanning is a tool which is only acceptable when in a hurry, it is straightforward method that allows for a quick preview. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application.
-
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
-    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
-    <figcaption>Bilbao. Vasque Country.</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
-    <figcaption>Bilbao. Vasque Country.</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
-    <figcaption>Bilbao. Vasque Country.</figcaption>
-    </div>
-</figure>
+In essence, Smartphone scanning is a tool which is only acceptable for preview purposes. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application. Another fact to be noted is that this application does not give the option to perform a horizontal flip of the image (something essential when DSLR scanning).
 <br/><br/>
 
 ## METHOD 2. FLATBED SCANNING
@@ -143,29 +109,121 @@ The following pictures are shown like they come out from the scanner. No compres
 
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_1.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
     <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_2.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_4.jpg" alt="Lighten" class="center">
     <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_3.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_1.jpg" alt="Lighten" class="center">
+    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
+    <figcaption>Bilbao. Vasque Country.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_2.jpg" alt="Lighten" class="center">
     <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/posts/Compress_FlatBed_4.jpg" alt="Lighten" class="center">
-    <figcaption>San Juan de Gaztelugatxe. Vasque Country.</figcaption>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_2.jpg" alt="Lighten" class="center">
+    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
     </div>
 </figure>
 <br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_1.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed.</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed</figcaption>
+    </div>
+</figure>
+<br/><br/>
+
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
+    </div>
+</figure>
+<br/><br/>
+
+Compress_Mirrorless_Scan_1
+
+## METHOD 3. DSLR / MIRRORLESS SCANNING
+---
+Althoug I have the flatbed scanner. Recently, many of the film related youtubers that I follow, have dedicated youtube videos to *Film scanning with a digital camera*, so during lockdown I thought I had time to give it a chance. I was developing lots of film and thougt it was a good time.
+
+Apparently the output quality is outstanding compared to user-end flatbed scanners, even better compared to dedicated lab scanners (Noritsu, frontier or pakon), which are selling for 1500 - 3000€ (which are much bulkier and need a dedicated *old* PC with XP Windows).
+<br/><br/>
+
+### METHOD EXPENSES AND NEEDED MATERIAL
+
+I could say that barely none, but not everybody has a DSLR or a mirrorless camera with a macro lens. In a perfect world where the money grew on trees, you would need:
+
+* Mirroless or DSLR camera (with HDMI output)
+* Dedicated macro lens
+* Light table
+* TV or monitor with HDMI interface
+* Remote shutter
+
+In my case, I already had laying around a Nikon D7100 (DSLR) and a Sony A6000 (Mirrorless). As you can imagine, I got the Sony because it was possible to use all the vintage lenses that I had easily. In the other hand, I did not have a macro lens, so I had to buy one, I went on the cheap side with a vintage Tamron Adaptall 35 - 80 for Canon FD mount.
+
+I also bought a drawing light table, do not make the same mistake, Drawing light tables are not powerful enough for ensuring not very slow shutter speeds on low ISO. So, do not waste your money on them. Some people recommends kaiser light tables, but in my opinion they are very expensive and look pretty similar to the drawing ones (don't expect it to be very bright).
+
+I then ended up buying a LED light panel, those you can find at Leroy Merlin, Home Depot or similar stores. I bought it on amazon (*remember, Lockdown*). I ended up buying a 220 x 220 mm square LED panel, 20 W and 2000 Lumen of light intensity (a bit over the top, 1000 lumen will be more than enough). For you to make an idea on how bright it is. The panel with its own diffuser plus another 3mm white diffuser I add, plus the negative gives an exposure setting of: **ISO 100, F8.0, 1/100 - 1/200**. 
+
+Speaking about the monitor, firstly, it is not a must, it only helps on the focus task. Any one should work, just make sure that it is possible to connect your camera to it (usually HDMI interface).
+
+Remote shutter isn't essential aswell, but it helps to avoid trepidation of the camera when hitting the shutter. It makes the process faster and easier. On the other hand, you can always use the timer function on your camera (like I do).
+<br/><br/>
+
+### NECESSARY SKILLS
+
+
+<br/><br/>
+
+### PROCESSING TIME
+
+
+<br/><br/>
+
+### END RESULT
+
 
 
 # FINAL RESULTS
