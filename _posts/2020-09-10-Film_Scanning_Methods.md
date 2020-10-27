@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Easy Film Scanner
-featured-img: 
+featured-img: Scanning
 mathjax: true
 ---
 

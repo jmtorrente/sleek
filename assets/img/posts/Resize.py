@@ -7,10 +7,10 @@
 from PIL import Image
 from resizeimage import resizeimage
 
-FotoName = 'Leica.jpg' #Modify
+FotoName = 'Scanning.jpg' #Modify
 Casa = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Leica" #Modify
+imName = "Scanning" #Modify
 Location = Casa #Modify Casa or Work
 
 with open((Casa + FotoName), 'r+b') as f: #Modify Casa or Work
