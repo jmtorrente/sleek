@@ -16,15 +16,13 @@ It is also true that the initial inversion to start on film photography may be l
 <p align="justify">
 But hey, the initial inversion of film photography is just the start. There are other expenses which I enumerate in the following lines that are, a "collateral damage".
 </p>
-<p align="justify">
+
 * __Film__ - In the latest years, shooting film has became something next to a luxury. It is true that some films like Fuji C200 or Colorplus 200 are yours for less than 5€ per 36 exposure roll, but what if you want to try Acros 100 II, prepare around 12€ for 36 frames. The same happens for other colour films like Portra, or even worst for slide film reaching 20€ for a roll of Velvia.
-</p>
-<p align="justify">
+
 * __Film Development__ - In Spain, where I live, it is fairly easy and "inexpensive" to have your film developed (if it is a color film and not medium format). In my case, my lab of trust, charges around 10€ for color development plus copies (10x15). If the film of your choice is B&W I'd say that it is around 20€ for development plus copies.
-</p>
-<p align="justify">
+
 * __Film Scanning__ - Having your film scanned at the lab is the best option if you want the highest quality, but prepare your wallet because it will cost an average of 25€ per roll. On the other hand. It is possible to do your own film scanning. There exists several ways, the cheapest one is by using a light table and a smartphone, it is also possible to do it in a more professional way, with a DSLR or mirrorless camera and a Macro lens. If on the other hand you want to go on the easiest way, invest in a flatbed scanner.
-</p>
+
 <p align="justify">
 Since I have tried all the previous methods, I am in the position to perform a comparison between the three them. In the following lines we will delve into them. 
 </p>
