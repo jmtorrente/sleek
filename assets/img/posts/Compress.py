@@ -12,7 +12,7 @@ Casa_Input = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/Article_image/Sca
 Work_Input = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 Casa_Output = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work_Output = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "HP5_FlatBed_Scan.tif" #Change depending on the image name
+imName = "HP5_FlatBed_Scan.jpg" #Change depending on the image name
 imName_Res = "Compress_"
 
 Im_Input = Casa_Input #Change depending on location
