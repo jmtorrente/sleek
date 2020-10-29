@@ -24,24 +24,24 @@ But hey, the initial inversion of film photography is just the start. There are 
 * __Film Scanning__ - Having your film scanned at the lab is the best option if you want the highest quality, but prepare your wallet because it will cost an average of 25€ per roll. On the other hand. It is possible to do your own film scanning. There exists several ways, the cheapest one is by using a light table and a smartphone, it is also possible to do it in a more professional way, with a DSLR or mirrorless camera and a Macro lens. If on the other hand you want to go on the easiest way, invest in a flatbed scanner.
 
 <p align="justify">
-Since I have tried all the previous methods, I am in the position to perform a comparison between the three them. In the following lines we will delve into them. 
+Since I have tried all the previous methods, I am in the position to establish a comparison between them. In the following lines we will delve into them. 
 </p>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_HP5_FlatBed_Scan.jpg" alt="Lighten" class="center">
     <figcaption>Flatbed scanning of Ilford HP5 with CanoScan 9000F Mark II</figcaption>
     </div>
 </figure>
-
+<br/><br/>
 ## METHOD 1. SMARTPHONE SCANNING
 ---
 <p align="justify">
-When I started in the film world, I did not have any flatbed scanner or any other source for scanning my negatives. But I was not willing to pay the amounts the labs were to charge me for doing me the job. Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography and return again to the digital world.
+When I started in the film world, I did not have any flatbed scanner or any other source for scanning my negatives, I even tried to do it with a normal scanner, but this is a story for a different day. Nevertheless I was not willing to pay the amounts the labs were to charge me for doing me the job, a quantity which I found to be a rip off. Either I could find an easy, reliable and cheap way of scanning my negatives or I would've ended quiting analog photography and return again to the digital world.
 </p>
 <p align="justify">
-I had my first roll of B&W film developed in Padrón (A Coruña, Galicia. Spain) back in 2015. I did not have the roll scanned (because of the price), but I asked for the copies. When I went for it, I was very upset, I could see that all the photos where underexposed, it was very frustrating and I took a long time for me to shoot film again. But when I did, I challenged myself to develop and scann it by myself, keeping the costs low.
+I had my first roll of B&W film developed in Padrón (A Coruña, Galicia. Spain) back in 2015. I did not have the roll scanned (because of the price), but I asked for the copies. When I went for it, I was very upset, I could see that all the photos where underexposed, making me think that my om1n speeds were not working properly, it was very frustrating and I took a long time for me to shoot film again. But when I did, I challenged myself to develop and scann it by myself, keeping the costs low.
 </p>
 <p align="justify">
-What did I do? I started to develop all the rools by myself, I found it very rewarding and interesting, on the other hand I saved so much money and made film photography look more appearing to me. The first roll I developed, I just scanned it by means of a dedicated App and a Smartphone. Not the best way, but at least I could see the pictures.
+What did I do? I started to develop all the rolls by myself, I found it very rewarding, easy and interesting, on the other hand I also saved so much money and made film photography look more appealing to me. The first roll I developed was scanned using a smartphone and a dedicated App. Not the best way, but at least I could (barely) see the pictures.
 </p>
 
 ### METHOD EXPENSES
@@ -49,38 +49,69 @@ What did I do? I started to develop all the rools by myself, I found it very rew
 Barely none, nowadays everybody's got a Smartphone, so let's just say that in this case, the only thing you need is a dedicated App. If you only shoot B&W, then it is very simple, since the free app Snapseed will be more that enough for you. If you also shoot color, then you will need a dedicated App.
 </p>
 <p align="justify">
-Photo Negative Scanner is one of the film scanning apps (for both B&W and colour negatives) available on <a href="https://play.google.com/store/apps/details?id=dk.appdictive.colorNegativeViewer&hl=en_US&gl=US" target="_blank">Google Play</a>, there may be others for IOS, just make a quick search at Apple Store. 
-Since the scope of this post is to compare DSLR / mirrorless scanning vs flatbed scanning. I will not go very deep on Smartphone scanning, just introduce it, and let you know that it is possible to do it (with its limitations). 
+Photo Negative Scanner is one of the film scanning apps (for both B&W and colour negatives) available on <a href="https://play.google.com/store/apps/details?id=dk.appdictive.colorNegativeViewer&hl=en_US&gl=US" target="_blank">Google Play</a>, there may be others for IOS, just make a quick search at Apple Store.  
 </p>
 
 ### MATERIAL NEEDED
 <p align="justify">
-Smartphone scanning, performed with no other tools; like a film holder, light table or such accesories has a lot of limitations. You will need to search for a light source, as difuse as possible, on the other hand, negatives wont usually stay flat by its own, so you will have lots of perspective issues. 
+Smartphone scanning, performed with no other tools; like a film holder, light table or such accesories has a lot of limitations. You will need to search for a light source, as difuse as possible, on the other hand, negatives wont usually stay flat by its own, so you will have lots of perspective issues that will drive you crazy trying to fix them using Lightroom or Photoshop. 
 </p>
 <p align="justify">
-It is of course possible to scan negatives this way, nevertheless is not the one I recommend, unless you don't care about the perspective issues or bas quality results. if you only want it as a preview tool for enlarging the negatives.
+It is of course possible to scan negatives this way, nevertheless is not the one I recommend, unless you don't care about the perspective issues, low quality results or if you only want it as a preview tool for later enlarging the negatives.
 </p>
 
 ### NECESSARY SKILLS
 <p align="justify">
-Even my grandparent would be able to scan negatives this way. The App does everything, and guides you through the entire process.
+Even my grandparent would be able to scan negatives this way. The App does everything, and guides you through the entire process. ALthoug I have seen that it does not flip the image horizontally, therefore, another post-processinh tool will be necessary to do it (snapseed for example).
 </p>
 
 ### PROCESSING TIME
 <p align="justify">
-It does not take too much, but it hughly depends on the tools you may have, if you, for example, own a [Lomography Smartphone Scanner](https://shop.lomography.com/en/smartphone-scanner?country=es), it obviously faster, but obviously it comes at a price of 69€ + delivery fees.
+It does not take too much, but it hugely depends on the tools you may have, if you, for example, own a <a href="https://shop.lomography.com/en/smartphone-scanner?country=es" target="_blank">Lomography Smartphone Scanner</a>, it obviously faster, but obviously it comes at a price of 69€ + delivery fees.
+
+There exists the possibility of makingcreating some kind of tool for flattening your negatives. For example, I use a 3D-printed version, which you will find in <a href="https://www.thingiverse.com/thing:3985120" target="_blank">Thingiverse</a>. If you don't have a 3D Printer, I am sure you know someone who does.  
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/FilmHolder.jpg" alt="Lighten" class="center">
+    <figcaption>120 & 35mm Film DSLR Film Scanning Holder</figcaption>
+    </div>
+</figure>
+<br/><br/>
 
 ### END RESULT
 <p align="justify">
 Ok. Let's go to the results, this tests have been performed procesing the photos shot with a Sony A6000 and vintage Tamron Macro Lens, also I put the film through my film holder (3D-printed). 
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed. Picture 1</figcaption>
+    </div>
+</figure>
+<br/><br/>
 <p align="justify">
 In the end, this test will only evaluate the APP capabilites. Take into account that the results will worsen if the photos are performed with a Smartphone.
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed. Picture 2</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed. Picture 3</figcaption>
+    </div>
+</figure>
+<br/><br/>
 <p align="justify">
 In essence, Smartphone scanning is a tool which is only acceptable for preview purposes. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application. Another fact to be noted is that this application does not give the option to perform a horizontal flip of the image (something essential when DSLR scanning).
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
+    <figcaption>This how the smartphone scanner performed. Picture 4</figcaption>
+    </div>
+</figure>
+<br/><br/>
 
 ## METHOD 2. FLATBED SCANNING
 ---
@@ -127,6 +158,30 @@ Processing time hugely depends on the quality of the output scans evidently if y
 <p align="justify">
 In this regarding, I am gonig to talk about my experience with the CanoScan 9000F Mark II, but I guess that the Epson family works in a similar way. The results given by the flatbed scanner are, in my opinion, fine, but not perfect. The following pictures are shown like they come out from the scanner. No compression or edition has been applied by the Canon SW. The program used for this task is Canon ScanGear.
 </p>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_1.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed. Picture 1</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_2.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed. Picture 2</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_3.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed. Picture 3</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_4.jpg" alt="Lighten" class="center">
+    <figcaption>This how the flatbed scanner performed. Picture 4</figcaption>
+    </div>
+</figure>
+<br/><br/>
 
 ## METHOD 3. DSLR / MIRRORLESS SCANNING
 ---
@@ -163,91 +218,44 @@ Speaking about the monitor, firstly, it is not a must, it only helps on the focu
 
 ### NECESSARY SKILLS
 <p align="justify">
-
+I would saym, that just the basics of photography to do it. In furhter articles, I will tell you how I do it, but I assure you that basic knowledge on ISO and exposure settings is more than enough. 
 </p>
 
 ### PROCESSING TIME
 <p align="justify">
+Surely it is a slowlier process if compared to smartphone scanning, but my friend, what a difference in quality. On the other hand, it is much faster than scanning with a flatbed scanner.
 
+To establish a comparison, for a 36 exposure roll, a smartphone scanning may take up to 10', DSLR scanning, may take around 10' to 20' and flatbed scanning your negatives may take (depending on the quality) more than an hour. 
 </p>
 
 ### END RESULT
 <p align="justify">
-
+Well I would say that an image is worth more than 1000 words, and so, check the results below to make your own opinion. 
 </p>
 
 # FINAL RESULTS
 
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-1.jpg" alt="Lighten" class="center">
-    <figcaption>This how the smartphone scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_4.jpg" alt="Lighten" class="center">
-    <figcaption>This how the flatbed scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_1.jpg" alt="Lighten" class="center">
-    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-2.jpg" alt="Lighten" class="center">
-    <figcaption>This how the smartphone scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_2.jpg" alt="Lighten" class="center">
-    <figcaption>This how the flatbed scanner performed</figcaption>
+    <figcaption>This how the mirrorless camera + Negative lab pro performed. Picture 1</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_1_2.jpg" alt="Lighten" class="center">
-    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-3.jpg" alt="Lighten" class="center">
-    <figcaption>This how the smartphone scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_1.jpg" alt="Lighten" class="center">
-    <figcaption>This how the flatbed scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_4.jpg" alt="Lighten" class="center">
-    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
-    <figcaption>This how the smartphone scanner performed</figcaption>
-    </div>
-</figure>
-<br/><br/>
-
-<figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_FlatBed_3.jpg" alt="Lighten" class="center">
-    <figcaption>This how the flatbed scanner performed</figcaption>
+    <figcaption>This how the mirrorless camera + Negative lab pro performed. Picture 2</figcaption>
     </div>
 </figure>
 <br/><br/>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_3.jpg" alt="Lighten" class="center">
-    <figcaption>This how the mirrorless camera + Negative lab pro performed</figcaption>
+    <figcaption>This how the mirrorless camera + Negative lab pro performed. Picture 3</figcaption>
+    </div>
+</figure>
+<br/><br/>
+<figure>
+    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_Mirrorless_Scan_4.jpg" alt="Lighten" class="center">
+    <figcaption>This how the mirrorless camera + Negative lab pro performed. Picture 4</figcaption>
     </div>
 </figure>
 
