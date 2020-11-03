@@ -7,31 +7,42 @@ mathjax: true
 
 # INTRODUCTION
 <p align="justify">
-Nowadays, film photography faces several challenges. film and camera prices (still rising), expensive development fees and very outdated film scanning methods are some of them. 
+These days, film photography is facing the challenges caused by the decline and subsequent rebound of film photography. Nowadays film photography is in its top (again), film rolls and camera prices are still rising, 
 </p>
 <p align="justify">
-Let's go step by step, in my opinion, the expenses of film photography, compared to digital photography, for someone who starts from nothing are barely justifiable. 
-It is also true that the initial inversion to start on film photography may be lower, as an example: it is possible to buy a Canon AE-1 with a nifty fifty for peaunuts if you're lucky which is nothing compared to the hundreds of euros that must  be invested for a digital one. 
+On the other hand, expensive development fees and very outdated film scanning methods are making many of the people who tries it, to turn into digital again. 
 </p>
 <p align="justify">
-But hey, the initial inversion of film photography is just the start. There are other expenses which I enumerate in the following lines that are, a "collateral damage".
+In my opinion, the expenses of film photography, compared to digital photography, for someone who starts from nothing are barely justifiable. 
+It is also true that the initial inversion to start on film photography is much lower, on the other hand, with digital photography, you spent your money once, with film, you spend money as much as you shoot.
 </p>
+<p align="justify">
+Some of the costs involved in film photography are the following:
+</p>
+<p align="justify">
 
 * __Film__ - In the latest years, shooting film has became something next to a luxury. It is true that some films like Fuji C200 or Colorplus 200 are yours for less than 5€ per 36 exposure roll, but what if you want to try Acros 100 II, prepare around 12€ for 36 frames. The same happens for other colour films like Portra, or even worst for slide film reaching 20€ for a roll of Velvia.
+</p>
+<p align="justify">
 
 * __Film Development__ - In Spain, where I live, it is fairly easy and "inexpensive" to have your film developed (if it is a color film and not medium format). In my case, my lab of trust, charges around 10€ for color development plus copies (10x15). If the film of your choice is B&W I'd say that it is around 20€ for development plus copies.
-
-* __Film Scanning__ - Having your film scanned at the lab is the best option if you want the highest quality, but prepare your wallet because it will cost an average of 25€ per roll. On the other hand. It is possible to do your own film scanning. There exists several ways, the cheapest one is by using a light table and a smartphone, it is also possible to do it in a more professional way, with a DSLR or mirrorless camera and a Macro lens. If on the other hand you want to go on the easiest way, invest in a flatbed scanner.
-
-<p align="justify">
-Since I have tried all the previous methods, I am in the position to establish a comparison between them. In the following lines we will delve into them. 
 </p>
+<p align="justify">
+
+* __Film Scanning__ - Having your film scanned at the lab is the best option if you want the highest quality, but do not get surprised when you are charged 25€ per scanned roll. On the other hand. It is possible to do your own film scanning. There exists several ways, the cheapest one is by using a light table and a smartphone, it is also possible to do it in a more professional way, with a DSLR or mirrorless camera and a Macro lens. If on the other hand you want to go on the easiest way, invest in a flatbed scanner, the uotput quality will depend on the invested money.
+</p>
+
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_HP5_FlatBed_Scan.jpg" alt="Lighten" class="center">
     <figcaption>Flatbed scanning of Ilford HP5 with CanoScan 9000F Mark II</figcaption>
     </div>
 </figure>
 <br/><br/>
+
+<p align="justify">
+In this article I will compare the three scanning methods (DIY) you may use. Fortunately I have tried the three methods explained balow, and so, I am in the position to establish a comparison between them. In the following lines we will delve into them. 
+</p>
+
 ## METHOD 1. SMARTPHONE SCANNING
 ---
 <p align="justify">
@@ -104,7 +115,7 @@ In the end, this test will only evaluate the APP capabilites. Take into account 
 </figure>
 <br/><br/>
 <p align="justify">
-In essence, Smartphone scanning is a tool which is only acceptable for preview purposes. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application. Another fact to be noted is that this application does not give the option to perform a horizontal flip of the image (something essential when DSLR scanning).
+In essence, Smartphone scanning is a tool which is only acceptable for preview purposes. Sometimes I have used it to takr a quick look at the results while the roll is still hanged drying (the app allows for live preview). The examples seen bellow, as previously noted, are pictures shot with a Sony A6000 + negative holder (3D-Printed), highlighted with a simple room led panel (20W), and converted with the Photo Negative Scanner application. Another fact to consider is that this application does not give the option to perform a horizontal flip of the image (something essential when DSLR scanning), and so you will need another pos-processing application (Snapseed).
 </p>
 <figure>
     <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Scanning_Methods/Compress_SmartPhone_Scanning-4.jpg" alt="Lighten" class="center">
@@ -228,11 +239,6 @@ Surely it is a slowlier process if compared to smartphone scanning, but my frien
 To establish a comparison, for a 36 exposure roll, a smartphone scanning may take up to 10', DSLR scanning, may take around 10' to 20' and flatbed scanning your negatives may take (depending on the quality) more than an hour. 
 </p>
 
-### END RESULT
-<p align="justify">
-Well I would say that an image is worth more than 1000 words, and so, check the results below to make your own opinion. 
-</p>
-
 # FINAL RESULTS
 
 <figure>
@@ -258,4 +264,13 @@ Well I would say that an image is worth more than 1000 words, and so, check the 
     <figcaption>This how the mirrorless camera + Negative lab pro performed. Picture 4</figcaption>
     </div>
 </figure>
+<br/><br/>
 
+### SUMMARY
+<p align="justify">
+I think that the decision on which method to follow, highly depends on your skills and desired quality. I think that you will quickly dicard Smartphone scanning, since the output quality, I think is suited even for social media.
+
+If you are a lazy person, but money is not the problem, I would encourage you to have your photos developed and scanned in a professional lab. On the other ahnd, if you'd like to develop and scan your own film, and money is not a problem I would either buy a high-end film scanner or, if you are a handyman, to do DSLR / mirrorless scanning.
+
+In my experience, when i am in a hurry, I tend to use my Canoscan for quick results, for higher quality, I use DSLR / mirrorless scanning.
+</p>
