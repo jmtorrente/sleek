@@ -68,7 +68,6 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-youtube
 
 sass:
     sass_dir: _sass
