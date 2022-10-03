@@ -1,0 +1,11 @@
+---
+layout: page
+title: Photo Gallery
+---
+
+{% for Photo in site.Photo_Gallery %}
+  <div class="Photo">
+    <h2><img src="{{ Photo.image_path }}" alt="{{ Photo.title }}">{{ Photo.title }}</a></h2>
+    {{ Photo.content }}
+  </div>
+{% endfor %}

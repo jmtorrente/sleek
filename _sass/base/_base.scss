@@ -4,6 +4,12 @@ html {
 
 body {
   -webkit-overflow-scrolling: touch;
+
+  .hero {
+    &::before {
+      background: rgba(3, 24, 43, 0.32);
+    }
+  }
 }
 
 *,
@@ -35,6 +41,3 @@ img::selection {
   background: transparent;
 }
 
-figure {
-  margin: 0;
-}

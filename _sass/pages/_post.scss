@@ -1,10 +1,18 @@
 .post-content {
-  max-width: 52.5rem;
   margin: 0 auto;
   padding-top: 2.5em;
 
   @include breakpoint($md) {
     padding-top: 5em;
+  }
+}
+
+.post-card {
+  &__thumb {
+    img {
+      position: absolute;
+      height: auto;
+    }
   }
 }
 
@@ -58,5 +66,36 @@
         fill: $primary;
       }
     }
+  }
+}
+
+.responsive-video {
+  width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+}
+
+@media only screen and (max-width: $medium-screen) {
+  .post-content {
+    max-width: 52.5rem;
+
+  }
+}
+
+@media only screen and (max-width: $desktop-screen) {
+  .post-content {
+    max-width: unset;
   }
 }

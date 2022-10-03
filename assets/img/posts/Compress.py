@@ -7,16 +7,19 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-FotoName = 'Zorki1-3'
-Casa_Input = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/Article_image/Zorki_1_Carrete/'
+#FotoName = '4-1'
+imName = "4-1.jpg" #Change depending on the image name
+imName_Res = "Compress_"
+Casa_Input_Article = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/Article_image/Contaflex/'
+Casa_Input_Gallery = 'C:/Users/jmtor/Documents/Projects/Web/Images_Gallery/'
 Work_Input = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
 Casa_Output = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
+Casa_Output_Gallery = 'C:/Users/jmtor/Documents/Projects/Web/Images_Gallery/'
+Casa_Output_Article = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/Article_image/Contaflex/'
 Work_Output = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Zorki1-3.jpg" #Change depending on the image name
-imName_Res = "Compress_"
 
-Im_Input = Casa_Input #Change depending on location
-Im_Output = Casa_Output #Change depending on location
+Im_Input = Casa_Input_Article #Change depending on location
+Im_Output = Casa_Output_Article #Change depending on location
 
 print('*** Program Started ***')
 

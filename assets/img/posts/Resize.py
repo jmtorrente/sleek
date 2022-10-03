@@ -7,10 +7,10 @@
 from PIL import Image
 from resizeimage import resizeimage
 
-FotoName = 'Nikon.jpg' #Modify
+FotoName = 'Contaflex_Rapid-1.jpg' #Modify
 Casa = 'C:/Users/jmtor/Documents/Projects/Web/assets/img/posts/'
 Work = 'O:/Web/jmtorrente.github.io/assets/img/posts/'
-imName = "Nikon" #Modify
+imName = "Contaflex" #Modify
 Location = Casa #Modify Casa or Work
 
 with open((Casa + FotoName), 'r+b') as f: #Modify Casa or Work
@@ -34,6 +34,6 @@ with open((Casa + FotoName), 'r+b') as f: #Modify Casa or Work
         cover = resizeimage.resize_width(image, 991)
         cover.save((Location + imName + "_md" + '.jpg'), image.format)
 
-        #cover = resizeimage.resize_width(image, 1999)
-        #cover.save((imName + "_lg" + '.jpeg'), image.format)
+        cover = resizeimage.resize_width(image, 1999)
+        cover.save((imName + "_lg" + '.jpeg'), image.format)
 

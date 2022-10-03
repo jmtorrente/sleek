@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Gallery', link: '/gallery'}
+  - {name: 'Gallery', link: '/Photo_Gallery'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
@@ -73,3 +73,5 @@ sass:
     sass_dir: _sass
     style: compressed
 
+collections:
+  Photo_Gallery:
