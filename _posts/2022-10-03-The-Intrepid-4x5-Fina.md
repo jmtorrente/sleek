@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Intrepid 4x5 & Fina
-featured-img: Fina_1
+featured-img: Fina
 mathjax: true
 ---
 
@@ -26,7 +26,7 @@ Picture Details:
  </p>
 <br>
 <figure>
-    <div align = "center"><img src="https://github.com/jmtorrente/jmtorrente.github.io/blob/master/assets/img/Article_image/Fina_4x5/Compress_Fina_HP5.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="/assets/img/Article_image/Fina_4x5/Compress_Fina_HP5.jpg" alt="Lighten" class="center">
     </div>
 </figure>  
 <br/><br/>
