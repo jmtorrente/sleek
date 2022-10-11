@@ -6,18 +6,17 @@ mathjax: true
 ---
 
 # FINA WITH THE INTEPID 4x5
- <p align="justify">
-    Picture Details:
-    
-    * Camera: The Intrepid 4x5, red bellows.
-    * Lens: Schenider Kreuznach Xenar 210mm, F4.5
-    * Photo paramenters: 1/25, F5.6
-    * Film: Ilford HP5 @ISO 400.
-    * Development: Rodinal, 1+100 dilution, ADOX Eco Stop Bath, Tetenal Rapid Fixer, SP-445 Tank.
-    * Scanning: CanoScan 9000F II.
-    * Edition: Lightroom.
+<br>
+Picture Details:
 
- </p>
+* _Camera: The Intrepid 4x5, red bellows_
+* _Lens: Schenider Kreuznach Xenar 210mm, F4.5_
+* _Photo paramenters: 1/25, F5.6_
+* _Film: Ilford HP5 @ISO 400_
+* _Development: Rodinal, 1+100 dilution, ADOX Eco Stop Bath, Tetenal Rapid Fixer, SP-445Tank_
+* _Scanning: CanoScan 9000F II_
+* _Edition: Lightroom_
+
  <p align="justify">
     This photo was shot in Galicia, in a not very remote area not far from Padrón. Fina is a good and old friend of my family. She is not actually my family from name. But this fact does not mean anything for people like her. 
 
@@ -27,8 +26,10 @@ mathjax: true
  </p>
 <br>
 <figure>
-    <div align = "center"><img src="https://raw.githubusercontent.com/jmtorrente/jmtorrente.github.io/master/assets/img/Article_image/Zorki_1_Carrete/Zorki1-1.jpg" alt="Lighten" class="center">
+    <div align = "center"><img src="https://github.com/jmtorrente/jmtorrente.github.io/blob/master/assets/img/Article_image/Fina_4x5/Compress_Fina_HP5.jpg" alt="Lighten" class="center">
     </div>
 </figure>  
 <br/><br/>
+
+
 
