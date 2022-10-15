@@ -37,21 +37,6 @@ Picture Details:
         <div class="gallery-item"> 
           <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-4.jpg" class="img-responsive"/>
         </div>
-        <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-6.jpg" class="img-responsive"/>
-        </div>
-        <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-7.jpg" class="img-responsive"/>
-        </div>
-        <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-8.jpg" class="img-responsive"/>
-        </div>
-        <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-9.jpg" class="img-responsive"/>
-        </div>
-        <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-10.jpg" class="img-responsive"/>
-        </div>
       </section>
       <div class="modal">
         <div class="modal-content"></div>
