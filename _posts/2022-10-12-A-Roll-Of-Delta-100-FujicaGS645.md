@@ -17,12 +17,6 @@ Picture Details:
 * _Scanning-rig: Valoi kit_
 * _Edition: Lightroom_
 
-<figure>
-    <div align = "center"><img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-3.jpg">
-    </div>
-</figure>  
-<br>
-
 <hr/>
 
   <div class="gallery-wrapper"> 
@@ -50,6 +44,24 @@ Picture Details:
         <button class="modal-btn left">&#10229;</button>
         <button class="modal-btn right"> &#10230;</button>
       </div>
+            <section class="gallery">
+        <div class="gallery-item lg">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-6.jpg"/>
+        </div>
+        <div class="gallery-item">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-7.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-8.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-9.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item"> 
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-10.jpg" class="img-responsive"/>
+        </div>
+      </section>
+      <div class="modal">
     </div>
   </div>
 
