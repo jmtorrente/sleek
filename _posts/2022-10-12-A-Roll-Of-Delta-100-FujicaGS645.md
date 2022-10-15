@@ -17,6 +17,12 @@ Picture Details:
 * _Scanning-rig: Valoi kit_
 * _Edition: Lightroom_
 
+<figure>
+    <div align = "center"><img src="/assets/img/Article_image/Fujica_Delta_Vacation/Fujica_Aug_22-3.jpg">
+    </div>
+</figure>  
+<br>
+
 <hr/>
 
   <div class="gallery-wrapper"> 
