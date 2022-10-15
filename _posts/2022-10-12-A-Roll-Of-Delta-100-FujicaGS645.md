@@ -29,19 +29,19 @@ Picture Details:
     <div class="container">
       <section class="gallery">
         <div class="gallery-item lg">
-          <img src="/assets/img/Article_image/Fujica_Delta/Fujica_Aug_22-3.jpg"/>
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-3.jpg"/>
         </div>
         <div class="gallery-item">
-          <img src="/assets/img/Article_image/Fujica_Delta/Fujica_Aug_22-5.jpg" class="img-responsive"/>
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-5.jpg" class="img-responsive"/>
         </div>
         <div class="gallery-item">
-          <img src="/assets/img/Article_image/Fujica_Delta/Fujica_Aug_22.jpg" class="img-responsive"/>
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22.jpg" class="img-responsive"/>
         </div>
         <div class="gallery-item">
-          <img src="/assets/img/Article_image/Fujica_Delta/Fujica_Aug_22-2.jpg" class="img-responsive"/>
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-2.jpg" class="img-responsive"/>
         </div>
         <div class="gallery-item"> 
-          <img src="/assets/img/Article_image/Fujica_Delta/Fujica_Aug_22-4.jpg" class="img-responsive"/>
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-4.jpg" class="img-responsive"/>
         </div>
       </section>
       <div class="modal">
