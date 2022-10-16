@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Roll Of Film With Fujica GS645
-featured-img: Fujica GS645
+featured-img: FujiGS645
 mathjax: true
 ---
 
@@ -22,20 +22,35 @@ Picture Details:
   <div class="gallery-wrapper"> 
     <div class="container">
       <section class="gallery">
-        <div class="gallery-item lg">
+        <div class="gallery-item one">
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-3.jpg"/>
         </div>
-        <div class="gallery-item">
+        <div class="gallery-item two">
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-5.jpg" class="img-responsive"/>
         </div>
-        <div class="gallery-item">
+        <div class="gallery-item three">
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22.jpg" class="img-responsive"/>
         </div>
-        <div class="gallery-item">
+        <div class="gallery-item four">
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-2.jpg" class="img-responsive"/>
         </div>
-        <div class="gallery-item"> 
+        <div class="gallery-item five"> 
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-4.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item six">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-6.jpg"/>
+        </div>
+        <div class="gallery-item seven">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-7.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item eight">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-8.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item nine">
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-9.jpg" class="img-responsive"/>
+        </div>
+        <div class="gallery-item ten"> 
+          <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-10.jpg" class="img-responsive"/>
         </div>
       </section>
       <div class="modal">
@@ -44,7 +59,7 @@ Picture Details:
         <button class="modal-btn left">&#10229;</button>
         <button class="modal-btn right"> &#10230;</button>
       </div>
-            <section class="gallery">
+      <!-- <section class="gallery">
         <div class="gallery-item lg">
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-6.jpg"/>
         </div>
@@ -60,8 +75,8 @@ Picture Details:
         <div class="gallery-item"> 
           <img src="/assets/img/Article_image/Delta100_Fujica/Fujica_Aug_22-10.jpg" class="img-responsive"/>
         </div>
-      </section>
-      <div class="modal">
+      </section> -->
     </div>
   </div>
 
+</>
